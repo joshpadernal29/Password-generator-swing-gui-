@@ -14,16 +14,16 @@ This Java application generates random passwords using the Swing GUI toolkit. It
 
 1.  **Prerequisites:** Ensure you have the Java Development Kit (JDK) installed on your system.
 
-2.  **Compilation:** Compile the `GeneratePass.java` file using the following command:
+2.  **Compilation:** Compile the `MainGui.java` file using the following command:
 
     ```bash
-    javac GeneratePass.java
+    javac MainGui.java
     ```
 
 3.  **Execution:** Run the compiled class file using the following command:
 
     ```bash
-    java GeneratePass
+    java MainGui
     ```
 
     This will launch the Password Generator application.
