@@ -1,4 +1,3 @@
-# Password-generator-swing-gui-
 # Password Generator in Java Swing
 
 ## Overview
